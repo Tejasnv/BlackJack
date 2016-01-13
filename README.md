@@ -1,4 +1,4 @@
-# BlackJack
+# BlackJack_Bringing Down the House 
 Game of Black Jack
 
 User can Choose to be an observer or a player. As a player u can actually play an one on one game against the computer 
